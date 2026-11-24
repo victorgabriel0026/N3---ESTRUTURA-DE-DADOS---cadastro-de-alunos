@@ -1,0 +1,19 @@
+{
+    "alunos": {
+        "1": {
+            "nome": "pedro",
+            "curso": "educação fisica",
+            "idade": 22
+        },
+        "2": {
+            "nome": "victor",
+            "curso": "ads",
+            "idade": 19
+        },
+        "3": {
+            "nome": "maria",
+            "curso": "fisioterapia",
+            "idade": 20
+        }
+    }
+}
